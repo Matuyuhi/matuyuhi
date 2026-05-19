@@ -27,8 +27,6 @@
 <text class="label" x="18.00" y="98.00">Mon</text>
 <text class="label" x="18.00" y="124.00">Wed</text>
 <text class="label" x="18.00" y="150.00">Fri</text>
-<rect x="36.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="36.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="36.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="36.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="36.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
@@ -41,9 +39,9 @@
 <rect x="49.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="49.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="62.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
-<rect x="62.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="62.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="62.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
+<rect x="62.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
+<rect x="62.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
+<rect x="62.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="62.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="62.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="62.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -81,7 +79,7 @@
 <rect x="127.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <text class="label" x="127.00" y="68.00">Jul</text>
 <rect x="127.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="127.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="127.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="127.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="127.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="140.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -107,7 +105,7 @@
 <rect x="166.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="179.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="179.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="179.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="179.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="179.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="179.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="179.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
@@ -119,7 +117,7 @@
 <rect x="192.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="192.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="192.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="192.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
+<rect x="192.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="205.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="205.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="205.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
@@ -190,7 +188,7 @@
 <rect x="322.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="322.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="322.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="322.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="322.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="322.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="335.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="335.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
@@ -203,7 +201,7 @@
 <rect x="348.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="348.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="348.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="348.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="348.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="348.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="348.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <text class="label" x="348.00" y="68.00">Nov</text>
@@ -240,7 +238,7 @@
 <text class="label" x="413.00" y="68.00">Dec</text>
 <rect x="413.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="413.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="413.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
+<rect x="413.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="413.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="413.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="426.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -276,7 +274,7 @@
 <rect x="478.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="478.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="478.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="478.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="478.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="478.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="478.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="491.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -340,7 +338,7 @@
 <rect x="595.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="595.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="595.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="595.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="595.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="595.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="595.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="595.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -351,7 +349,7 @@
 <rect x="608.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="608.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="608.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
-<rect x="621.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="621.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="621.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="621.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="621.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -391,25 +389,27 @@
 <rect x="686.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="686.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="686.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="686.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="686.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="686.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <text class="label" x="686.00" y="68.00">May</text>
 <rect x="686.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="699.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
 <rect x="699.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="699.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
-<rect x="699.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="699.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="699.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="699.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
 <rect x="699.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="712.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="712.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="712.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
-<rect x="712.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
+<rect x="712.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
 <rect x="712.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
 <rect x="712.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="712.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
-<rect x="725.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="725.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#9ece6a"/>
+<rect x="725.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
+<rect x="725.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <text class="muted" x="36.00" y="198.00">Less</text>
 <rect x="70.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="84.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
