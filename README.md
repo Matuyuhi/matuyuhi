@@ -10,7 +10,7 @@
 
 ---
 
-![Language](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,go,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
+![Language](https://skillicons.dev/icons?i=js,ts,css,c,cs,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
 
 ---
 
