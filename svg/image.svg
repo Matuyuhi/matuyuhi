@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">yuhi yamane's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 7019, Total PRs: 1904, Total PRs Merged: 1793, Merged PRs Percentage: 94.17, Total PRs Reviewed: 220, Total Issues: 268, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Commits  : 7020, Total PRs: 1909, Total PRs Merged: 1795, Merged PRs Percentage: 94.03, Total PRs Reviewed: 222, Total Issues: 271, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.209052877132;
+        stroke-dashoffset: 67.20783805973808;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.17 %</text>
+      >94.03 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >220</text>
+      >222</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >268</text>
+      >271</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
