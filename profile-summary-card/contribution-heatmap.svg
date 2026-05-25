@@ -27,7 +27,6 @@
 <text class="label" x="18.00" y="98.00">Mon</text>
 <text class="label" x="18.00" y="124.00">Wed</text>
 <text class="label" x="18.00" y="150.00">Fri</text>
-<rect x="36.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="36.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="36.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="36.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
@@ -410,6 +409,7 @@
 <rect x="712.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#7dcfff"/>
 <rect x="712.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
 <rect x="725.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
+<rect x="725.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <text class="muted" x="36.00" y="198.00">Less</text>
 <rect x="70.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#414868"/>
 <rect x="84.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#e0af68"/>
@@ -417,5 +417,5 @@
 <rect x="112.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
 <rect x="126.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#7aa2f7"/>
 <text class="muted" x="144.00" y="198.00">More</text>
-<text class="bold" x="776.00" y="198.00" text-anchor="end">5.5k contributions in the last year</text>
+<text class="bold" x="776.00" y="198.00" text-anchor="end">5.4k contributions in the last year</text>
 </svg>
