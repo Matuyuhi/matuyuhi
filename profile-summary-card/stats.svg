@@ -23,7 +23,7 @@
 <rect x="20.00" y="52.00" width="18.00" height="18.00" rx="4.00" fill="#7aa2f7" opacity="0.18"/>
 <g transform="translate(22.00,54.00) scale(0.5833)" fill="none" stroke="#7aa2f7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
 <text class="text" x="48.00" y="64.00">Total Stars Earned</text>
-<text class="num" x="456.00" y="64.00" text-anchor="end">25</text>
+<text class="num" x="456.00" y="64.00" text-anchor="end">26</text>
 <rect x="20.00" y="74.00" width="18.00" height="18.00" rx="4.00" fill="#bb9af7" opacity="0.18"/>
 <g transform="translate(22.00,76.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6" r="2.5"/>
 <circle cx="6" cy="18" r="2.5"/>
@@ -49,7 +49,7 @@
 <path d="M6 9v6"/>
 <path d="M13 6h3a2 2 0 0 1 2 2v7"/></g>
 <text class="text" x="48.00" y="152.00">Total PRs</text>
-<text class="num" x="456.00" y="152.00" text-anchor="end">1.9k</text>
+<text class="num" x="456.00" y="152.00" text-anchor="end">2k</text>
 <rect x="20.00" y="162.00" width="18.00" height="18.00" rx="4.00" fill="#7dcfff" opacity="0.18"/>
 <g transform="translate(22.00,164.00) scale(0.5833)" fill="none" stroke="#7dcfff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/>
 <line x1="12" y1="8" x2="12" y2="12"/>

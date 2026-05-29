@@ -95,8 +95,7 @@
 <text class="bold" x="558.00" y="345.00">0</text>
 <rect x="16.00" y="386.00" width="568.00" height="56.00" rx="8.00" fill="#414868" opacity="0.40"/>
 <rect x="24.00" y="394.00" width="3.5" height="40.00" rx="2" fill="#ec915c"/>
-<text class="bold" x="38.00" y="410.00">zig-mcp-sdk</text>
-<text class="muted" x="38.00" y="427.00">A fairly simple MCP SDK module for the Zig language</text>
+<text class="bold" x="38.00" y="410.00">github-user-summary-cards</text>
 <circle cx="42.00" cy="439.00" r="4.00" fill="#ec915c"/>
 <text class="muted" x="52.00" y="442.00">Zig</text>
 <g transform="translate(470.00,400.00) scale(0.5833)" fill="#e0af68" stroke="none"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
