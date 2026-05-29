@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v5.0.1
 
       - name: Generate cards
-        uses: matuyuhi/github-user-summary-cards@v0
+        uses: matuyuhi/github-user-summary-cards@v1
         with:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
@@ -24,6 +24,8 @@ jobs:
           ALL_TIME: 'true'
           HUMANIZE: 'true'
           OUTPUT_DIR: profile-summary-card
+          TOP_REPOS: 7
+          TOP_RANGS: 7
 
       - name: Commit cards
         env:
