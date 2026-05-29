@@ -25,7 +25,7 @@ jobs:
           HUMANIZE: 'true'
           OUTPUT_DIR: profile-summary-card
           TOP_REPOS: 7
-          TOP_RANGS: 7
+          TOP_LANGS: 7
 
       - name: Commit cards
         env:
