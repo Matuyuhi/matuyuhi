@@ -42,7 +42,7 @@
 <text class="num" x="526.00" y="184.00" text-anchor="end">3</text>
 <g transform="translate(20.00,198.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
 <text class="text" x="42.00" y="210.00">Stars Earned</text>
-<text class="num" x="266.00" y="210.00" text-anchor="end">26</text>
+<text class="num" x="266.00" y="210.00" text-anchor="end">27</text>
 <g transform="translate(280.00,198.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6" r="2.5"/>
 <circle cx="6" cy="18" r="2.5"/>
 <circle cx="18" cy="18" r="2.5"/>
