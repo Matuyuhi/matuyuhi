@@ -33,7 +33,7 @@
 <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
 <path d="M16 3.13a4 4 0 0 1 0 7.75"/></g>
 <text class="text" x="42.00" y="184.00">Followers</text>
-<text class="num" x="266.00" y="184.00" text-anchor="end">9</text>
+<text class="num" x="266.00" y="184.00" text-anchor="end">10</text>
 <g transform="translate(280.00,172.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
 <circle cx="8.5" cy="7" r="4"/>
 <line x1="20" y1="8" x2="20" y2="14"/>
@@ -42,7 +42,7 @@
 <text class="num" x="526.00" y="184.00" text-anchor="end">3</text>
 <g transform="translate(20.00,198.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
 <text class="text" x="42.00" y="210.00">Stars Earned</text>
-<text class="num" x="266.00" y="210.00" text-anchor="end">27</text>
+<text class="num" x="266.00" y="210.00" text-anchor="end">28</text>
 <g transform="translate(280.00,198.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6" r="2.5"/>
 <circle cx="6" cy="18" r="2.5"/>
 <circle cx="18" cy="18" r="2.5"/>
@@ -69,5 +69,5 @@
 <path d="M3 12h6"/>
 <path d="M15 12h6"/></g>
 <text class="text" x="302.00" y="262.00">Commits</text>
-<text class="num" x="526.00" y="262.00" text-anchor="end">8.8k</text>
+<text class="num" x="526.00" y="262.00" text-anchor="end">8.9k</text>
 </svg>

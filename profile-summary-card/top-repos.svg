@@ -107,11 +107,10 @@
 <path d="M12 8.5v2A3.5 3.5 0 0 0 15.5 14H16a4 4 0 0 1 4 4v-2.5"/></g>
 <text class="bold" x="558.00" y="411.00">0</text>
 <rect x="16.00" y="452.00" width="568.00" height="56.00" rx="8.00" fill="#414868" opacity="0.40"/>
-<rect x="24.00" y="460.00" width="3.5" height="40.00" rx="2" fill="#ec915c"/>
-<text class="bold" x="38.00" y="476.00">zig-mcp-sdk</text>
-<text class="muted" x="38.00" y="493.00">A fairly simple MCP SDK module for the Zig language</text>
-<circle cx="42.00" cy="502.00" r="4.00" fill="#ec915c"/>
-<text class="muted" x="52.00" y="505.00">Zig</text>
+<rect x="24.00" y="460.00" width="3.5" height="40.00" rx="2" fill="#701516"/>
+<text class="bold" x="38.00" y="476.00">ai-news-daily</text>
+<circle cx="42.00" cy="502.00" r="4.00" fill="#701516"/>
+<text class="muted" x="52.00" y="505.00">Ruby</text>
 <g transform="translate(470.00,466.00) scale(0.5833)" fill="#e0af68" stroke="none"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
 <text class="bold" x="488.00" y="477.00">1</text>
 <g transform="translate(540.00,466.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6" r="2.5"/>
