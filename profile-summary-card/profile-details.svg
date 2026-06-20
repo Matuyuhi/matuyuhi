@@ -42,7 +42,7 @@
 <text class="num" x="526.00" y="184.00" text-anchor="end">4</text>
 <g transform="translate(20.00,198.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
 <text class="text" x="42.00" y="210.00">Stars Earned</text>
-<text class="num" x="266.00" y="210.00" text-anchor="end">28</text>
+<text class="num" x="266.00" y="210.00" text-anchor="end">29</text>
 <g transform="translate(280.00,198.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6" r="2.5"/>
 <circle cx="6" cy="18" r="2.5"/>
 <circle cx="18" cy="18" r="2.5"/>
@@ -56,7 +56,7 @@
 <path d="M6 9v6"/>
 <path d="M13 6h3a2 2 0 0 1 2 2v7"/></g>
 <text class="text" x="42.00" y="236.00">Total PRs</text>
-<text class="num" x="266.00" y="236.00" text-anchor="end">2k</text>
+<text class="num" x="266.00" y="236.00" text-anchor="end">2.1k</text>
 <g transform="translate(280.00,224.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/>
 <line x1="12" y1="8" x2="12" y2="12"/>
 <line x1="12" y1="16" x2="12" y2="16"/></g>
@@ -64,10 +64,10 @@
 <text class="num" x="526.00" y="236.00" text-anchor="end">273</text>
 <g transform="translate(20.00,250.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></g>
 <text class="text" x="42.00" y="262.00">Repos Owned</text>
-<text class="num" x="266.00" y="262.00" text-anchor="end">90</text>
+<text class="num" x="266.00" y="262.00" text-anchor="end">91</text>
 <g transform="translate(280.00,250.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/>
 <path d="M3 12h6"/>
 <path d="M15 12h6"/></g>
 <text class="text" x="302.00" y="262.00">Commits</text>
-<text class="num" x="526.00" y="262.00" text-anchor="end">9k</text>
+<text class="num" x="526.00" y="262.00" text-anchor="end">9.1k</text>
 </svg>
