@@ -20,7 +20,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
           THEME: tokyonight
-          EXCLUDE: ShaderLab,CSS
+          EXCLUDE: ShaderLab,CSS,JavaScript
           ALL_TIME: 'true'
           HUMANIZE: 'true'
           OUTPUT_DIR: profile-summary-card
