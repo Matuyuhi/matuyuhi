@@ -21,35 +21,35 @@
 <rect x="20" y="14" width="3" height="22" rx="1.5" fill="#70a5fd"/>
 <text class="title" x="32" y="30">Most Commit Language</text>
 <circle cx="130.00" cy="160.00" r="79.00" fill="#414868"/>
-<path d="M130.00,82.00 A78.00,78.00 0 0 1 190.60,209.11 L168.85,191.48 A50.00,50.00 0 0 0 130.00,110.00 Z" fill="#A97BFF"/>
-<path d="M190.60,209.11 A78.00,78.00 0 0 1 73.62,213.90 L93.86,194.55 A50.00,50.00 0 0 0 168.85,191.48 Z" fill="#3178c6"/>
-<path d="M73.62,213.90 A78.00,78.00 0 0 1 52.55,150.75 L80.35,154.07 A50.00,50.00 0 0 0 93.86,194.55 Z" fill="#178600"/>
-<path d="M52.55,150.75 A78.00,78.00 0 0 1 63.57,119.12 L87.42,133.79 A50.00,50.00 0 0 0 80.35,154.07 Z" fill="#f34b7d"/>
-<path d="M63.57,119.12 A78.00,78.00 0 0 1 83.47,97.40 L100.17,119.87 A50.00,50.00 0 0 0 87.42,133.79 Z" fill="#F05138"/>
-<path d="M83.47,97.40 A78.00,78.00 0 0 1 95.70,89.95 L108.01,115.09 A50.00,50.00 0 0 0 100.17,119.87 Z" fill="#dea584"/>
-<path d="M95.70,89.95 A78.00,78.00 0 0 1 101.72,87.31 L111.87,113.40 A50.00,50.00 0 0 0 108.01,115.09 Z" fill="#355570"/>
-<path d="M101.72,87.31 A78.00,78.00 0 0 1 130.00,82.00 L130.00,110.00 A50.00,50.00 0 0 0 111.87,113.40 Z" fill="#9aa1a8"/>
+<path d="M130.00,82.00 A78.00,78.00 0 0 1 191.44,208.06 L169.38,190.81 A50.00,50.00 0 0 0 130.00,110.00 Z" fill="#A97BFF"/>
+<path d="M191.44,208.06 A78.00,78.00 0 0 1 75.30,215.61 L94.94,195.65 A50.00,50.00 0 0 0 169.38,190.81 Z" fill="#3178c6"/>
+<path d="M75.30,215.61 A78.00,78.00 0 0 1 52.17,154.86 L80.11,156.71 A50.00,50.00 0 0 0 94.94,195.65 Z" fill="#178600"/>
+<path d="M52.17,154.86 A78.00,78.00 0 0 1 61.37,122.93 L86.01,136.23 A50.00,50.00 0 0 0 80.11,156.71 Z" fill="#f34b7d"/>
+<path d="M61.37,122.93 A78.00,78.00 0 0 1 81.08,99.25 L98.64,121.06 A50.00,50.00 0 0 0 86.01,136.23 Z" fill="#F05138"/>
+<path d="M81.08,99.25 A78.00,78.00 0 0 1 95.95,89.82 L108.18,115.01 A50.00,50.00 0 0 0 98.64,121.06 Z" fill="#dea584"/>
+<path d="M95.95,89.82 A78.00,78.00 0 0 1 101.94,87.22 L112.01,113.35 A50.00,50.00 0 0 0 108.18,115.01 Z" fill="#355570"/>
+<path d="M101.94,87.22 A78.00,78.00 0 0 1 130.00,82.00 L130.00,110.00 A50.00,50.00 0 0 0 112.01,113.35 Z" fill="#9aa1a8"/>
 <circle cx="130.00" cy="160.00" r="49.50" fill="#1a1b27"/>
 <text x="130.00" y="164.00" text-anchor="middle" class="huge" fill="#A97BFF">36%</text>
 <text class="muted" x="130.00" y="182.00" text-anchor="middle">Kotlin</text>
 <circle cx="246.00" cy="74.00" r="5.00" fill="#A97BFF"/>
 <text class="text" x="258.00" y="78.00">Kotlin</text>
-<text class="bold" x="516.00" y="78.00" text-anchor="end">35.8%</text>
+<text class="bold" x="516.00" y="78.00" text-anchor="end">35.6%</text>
 <circle cx="246.00" cy="98.00" r="5.00" fill="#3178c6"/>
 <text class="text" x="258.00" y="102.00">TypeScript</text>
-<text class="bold" x="516.00" y="102.00" text-anchor="end">27.0%</text>
+<text class="bold" x="516.00" y="102.00" text-anchor="end">26.8%</text>
 <circle cx="246.00" cy="122.00" r="5.00" fill="#178600"/>
 <text class="text" x="258.00" y="126.00">C#</text>
-<text class="bold" x="516.00" y="126.00" text-anchor="end">14.0%</text>
+<text class="bold" x="516.00" y="126.00" text-anchor="end">13.7%</text>
 <circle cx="246.00" cy="146.00" r="5.00" fill="#f34b7d"/>
 <text class="text" x="258.00" y="150.00">C++</text>
-<text class="bold" x="516.00" y="150.00" text-anchor="end">6.9%</text>
+<text class="bold" x="516.00" y="150.00" text-anchor="end">6.8%</text>
 <circle cx="246.00" cy="170.00" r="5.00" fill="#F05138"/>
 <text class="text" x="258.00" y="174.00">Swift</text>
-<text class="bold" x="516.00" y="174.00" text-anchor="end">6.0%</text>
+<text class="bold" x="516.00" y="174.00" text-anchor="end">6.3%</text>
 <circle cx="246.00" cy="194.00" r="5.00" fill="#dea584"/>
 <text class="text" x="258.00" y="198.00">Rust</text>
-<text class="bold" x="516.00" y="198.00" text-anchor="end">2.9%</text>
+<text class="bold" x="516.00" y="198.00" text-anchor="end">3.6%</text>
 <circle cx="246.00" cy="218.00" r="5.00" fill="#355570"/>
 <text class="text" x="258.00" y="222.00">GDScript</text>
 <text class="bold" x="516.00" y="222.00" text-anchor="end">1.3%</text>

@@ -41,7 +41,7 @@
 <rect x="20.00" y="118.00" width="18.00" height="18.00" rx="4.00" fill="#e0af68" opacity="0.18"/>
 <g transform="translate(22.00,120.00) scale(0.5833)" fill="none" stroke="#e0af68" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></g>
 <text class="text" x="48.00" y="130.00">Total Contributions</text>
-<text class="num" x="456.00" y="130.00" text-anchor="end">12k</text>
+<text class="num" x="456.00" y="130.00" text-anchor="end">13k</text>
 <rect x="20.00" y="140.00" width="18.00" height="18.00" rx="4.00" fill="#f7768e" opacity="0.18"/>
 <g transform="translate(22.00,142.00) scale(0.5833)" fill="none" stroke="#f7768e" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/>
 <circle cx="6" cy="18" r="3"/>
