@@ -33,7 +33,7 @@
 <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
 <path d="M16 3.13a4 4 0 0 1 0 7.75"/></g>
 <text class="text" x="42.00" y="184.00">Followers</text>
-<text class="num" x="266.00" y="184.00" text-anchor="end">11</text>
+<text class="num" x="266.00" y="184.00" text-anchor="end">12</text>
 <g transform="translate(280.00,172.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
 <circle cx="8.5" cy="7" r="4"/>
 <line x1="20" y1="8" x2="20" y2="14"/>
@@ -61,7 +61,7 @@
 <line x1="12" y1="8" x2="12" y2="12"/>
 <line x1="12" y1="16" x2="12" y2="16"/></g>
 <text class="text" x="302.00" y="236.00">Total Issues</text>
-<text class="num" x="526.00" y="236.00" text-anchor="end">273</text>
+<text class="num" x="526.00" y="236.00" text-anchor="end">274</text>
 <g transform="translate(20.00,250.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></g>
 <text class="text" x="42.00" y="262.00">Repos Owned</text>
 <text class="num" x="266.00" y="262.00" text-anchor="end">91</text>
