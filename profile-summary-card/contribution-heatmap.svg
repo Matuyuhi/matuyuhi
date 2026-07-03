@@ -27,8 +27,6 @@
 <text class="label" x="18.00" y="98.00">Mon</text>
 <text class="label" x="18.00" y="124.00">Wed</text>
 <text class="label" x="18.00" y="150.00">Fri</text>
-<rect x="36.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#26293b"/>
-<rect x="36.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#26293b"/>
 <rect x="36.00" y="154.00" width="11.00" height="11.00" rx="2.00" fill="#26293b"/>
 <rect x="49.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
 <rect x="49.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#546ca4"/>
@@ -409,8 +407,10 @@
 <rect x="725.00" y="76.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
 <rect x="725.00" y="89.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
 <rect x="725.00" y="102.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
-<rect x="725.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#26293b"/>
+<rect x="725.00" y="115.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
 <text class="label" x="725.00" y="68.00">Jul</text>
+<rect x="725.00" y="128.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
+<rect x="725.00" y="141.00" width="11.00" height="11.00" rx="2.00" fill="#26293b"/>
 <text class="muted" x="36.00" y="198.00">Less</text>
 <rect x="70.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#26293b"/>
 <rect x="84.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#40517a"/>
@@ -418,5 +418,5 @@
 <rect x="112.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#6787cd"/>
 <rect x="126.00" y="188.00" width="11.00" height="11.00" rx="2.00" fill="#8eb0f8"/>
 <text class="muted" x="144.00" y="198.00">More</text>
-<text class="bold" x="776.00" y="198.00" text-anchor="end">6k contributions in the last year</text>
+<text class="bold" x="776.00" y="198.00" text-anchor="end">6.1k contributions in the last year</text>
 </svg>

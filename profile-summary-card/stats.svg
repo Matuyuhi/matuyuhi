@@ -49,7 +49,7 @@
 <path d="M6 9v6"/>
 <path d="M13 6h3a2 2 0 0 1 2 2v7"/></g>
 <text class="text" x="48.00" y="152.00">Total PRs</text>
-<text class="num" x="456.00" y="152.00" text-anchor="end">2.1k</text>
+<text class="num" x="456.00" y="152.00" text-anchor="end">2.2k</text>
 <rect x="20.00" y="162.00" width="18.00" height="18.00" rx="4.00" fill="#7dcfff" opacity="0.18"/>
 <g transform="translate(22.00,164.00) scale(0.5833)" fill="none" stroke="#7dcfff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/>
 <line x1="12" y1="8" x2="12" y2="12"/>
