@@ -33,7 +33,7 @@
 <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
 <path d="M16 3.13a4 4 0 0 1 0 7.75"/></g>
 <text class="text" x="42.00" y="184.00">Followers</text>
-<text class="num" x="266.00" y="184.00" text-anchor="end">12</text>
+<text class="num" x="266.00" y="184.00" text-anchor="end">13</text>
 <g transform="translate(280.00,172.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
 <circle cx="8.5" cy="7" r="4"/>
 <line x1="20" y1="8" x2="20" y2="14"/>
