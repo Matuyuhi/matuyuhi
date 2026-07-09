@@ -59,11 +59,11 @@
 <rect x="20.00" y="184.00" width="18.00" height="18.00" rx="4.00" fill="#ff9e64" opacity="0.18"/>
 <g transform="translate(22.00,186.00) scale(0.5833)" fill="none" stroke="#ff9e64" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></g>
 <text class="text" x="48.00" y="196.00">Repos Owned</text>
-<text class="num" x="456.00" y="196.00" text-anchor="end">91</text>
+<text class="num" x="456.00" y="196.00" text-anchor="end">92</text>
 <rect x="20.00" y="206.00" width="18.00" height="18.00" rx="4.00" fill="#73daca" opacity="0.18"/>
 <g transform="translate(22.00,208.00) scale(0.5833)" fill="none" stroke="#73daca" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/>
 <polyline points="2 17 12 22 22 17"/>
 <polyline points="2 12 12 17 22 12"/></g>
 <text class="text" x="48.00" y="218.00">Contributed Repos</text>
-<text class="num" x="456.00" y="218.00" text-anchor="end">166</text>
+<text class="num" x="456.00" y="218.00" text-anchor="end">167</text>
 </svg>
