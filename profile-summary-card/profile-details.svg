@@ -61,7 +61,7 @@
 <line x1="12" y1="8" x2="12" y2="12"/>
 <line x1="12" y1="16" x2="12" y2="16"/></g>
 <text class="text" x="302.00" y="236.00">Total Issues</text>
-<text class="num" x="526.00" y="236.00" text-anchor="end">278</text>
+<text class="num" x="526.00" y="236.00" text-anchor="end">279</text>
 <g transform="translate(20.00,250.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></g>
 <text class="text" x="42.00" y="262.00">Repos Owned</text>
 <text class="num" x="266.00" y="262.00" text-anchor="end">92</text>
