@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
           THEME: tokyonight
           EXCLUDE: ShaderLab,CSS,JavaScript
-          ALL_TIME: 'true'
+          ALL_TIME: 'false'
           HUMANIZE: 'true'
           OUTPUT_DIR: profile-summary-card
           TOP_REPOS: 7
