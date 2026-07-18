@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=matuyuhi)<br/>
 
 <p align="center">
-  <img alt="profile" src="./profile-summary-card/profile-details.svg" width="500" />
+  <!-- <img alt="profile" src="./profile-summary-card/profile-details.svg" width="500" /> -->
  <!-- <img alt="stats" src="./svg/image.svg" width="500" /> -->
-  <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" width="500" />
-  <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" width="500" />
-  <img alt="Contribution to heatmap" src="./profile-summary-card/contribution-heatmap.svg" width="500" />
+  <img alt="repos per language" src="./profile-summary-card/repos-per-language.svg" width="400" />
+  <img alt="most commit language" src="./profile-summary-card/most-commit-language.svg" width="400" />
+  <img alt="Contribution to heatmap" src="./profile-summary-card/contribution-heatmap.svg" width="600" />
 </p>
 
 ---
