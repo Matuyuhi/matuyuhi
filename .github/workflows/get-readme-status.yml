@@ -40,7 +40,7 @@ jobs:
     - name: Generate trophy SVG
       env:
         GITHUB_TOKEN1: ${{ github.token }}
-        GITHUB_TOKEN2: ${{ secrets.SUMMARY_CARDS_TOKEN != null && secrets.SUMMARY_CARDS_TOKEN || github.token }}
+        GITHUB_TOKEN2: ${{ github.token }}
       run: |
         deno run --allow-net --allow-env --allow-read --allow-write \
           .trophy-gen/render_svg.ts \
