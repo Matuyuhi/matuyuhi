@@ -44,7 +44,7 @@ jobs:
       run: |
         deno run --allow-net --allow-env --allow-read --allow-write \
           .trophy-gen/render_svg.ts \
-          matuyuhi \
+          Matuyuhi \
           --file svg/trophy.svg \
           --theme classic \
           --no-frame true \
