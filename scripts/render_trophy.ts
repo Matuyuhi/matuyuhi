@@ -1,9 +1,10 @@
-// Renders svg/trophy.svg with the trophy generator cloned into .trophy-gen.
+// Renders svg/trophy.svg with ryo-ma/github-profile-trophy, cloned into
+// .trophy-gen by the workflow.
 //
-// The pinned generator ships its own render_svg.ts, but that entrypoint only
-// takes positional arguments (username, output path, theme) and hardcodes the
-// layout (auto columns, frames on). This wrapper drives the same Card renderer
-// so the layout stays configurable from the workflow.
+// Upstream ships its own render_svg.ts, but that entrypoint only takes
+// positional arguments (username, output path, theme) and hardcodes the layout
+// (auto columns, frames on). This wrapper drives the same Card renderer so the
+// layout stays configurable from the workflow.
 import { Card } from "../.trophy-gen/src/card.ts";
 import { COLORS } from "../.trophy-gen/src/theme.ts";
 import { GithubApiService } from "../.trophy-gen/src/Services/GithubApiService.ts";

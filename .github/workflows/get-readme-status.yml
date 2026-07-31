@@ -34,7 +34,7 @@ jobs:
 
     - name: Clone trophy generator
       run: |
-        git clone https://github.com/Erik-Donath/github-profile-trophy.git .trophy-gen
+        git clone https://github.com/ryo-ma/github-profile-trophy.git .trophy-gen
         git -C .trophy-gen checkout e3c89df995e92e67cdd4b2acaab9d974583dc1f7
 
     - name: Generate trophy SVG
