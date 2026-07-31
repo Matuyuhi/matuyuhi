@@ -35,7 +35,7 @@ jobs:
     - name: Clone trophy generator
       run: |
         git clone https://github.com/Erik-Donath/github-profile-trophy.git .trophy-gen
-        git -C .trophy-gen checkout eb0893b31de06841663555d10aa43eb7cf27952f
+        git -C .trophy-gen checkout e3c89df995e92e67cdd4b2acaab9d974583dc1f7
 
     - name: Generate trophy SVG
       env:
@@ -43,7 +43,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
       run: |
         deno run --allow-net --allow-env --allow-read --allow-write \
-          .trophy-gen/render_svg.ts \
+          scripts/render_trophy.ts \
           Matuyuhi \
           --file svg/trophy.svg \
           --theme default \
