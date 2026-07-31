@@ -46,12 +46,27 @@ jobs:
           .trophy-gen/render_svg.ts \
           Matuyuhi \
           --file svg/trophy.svg \
-          --theme classic \
-          --no-frame true \
-          --rows 5 \
-          --panel-size 0 \
+          --theme default \
+          --no-frame \
+          --cols 5 \
+          --rows 10 \
+          --panel-size 115 \
           --margin-width 10 \
           --margin-height 10
+
+    - name: Verify trophy SVG is not empty
+      run: |
+        set -e
+        test -s svg/trophy.svg || { echo "::error::svg/trophy.svg is empty"; exit 1; }
+        dims=$(head -c 400 svg/trophy.svg | tr -d '\n' | grep -oE 'width="[0-9-]+"[[:space:]]*height="[0-9-]+"' | head -1)
+        echo "root dimensions: $dims"
+        case "$dims" in
+          *'width="0"'*|*'height="0"'*|"")
+            echo "::error::svg/trophy.svg rendered with zero/unreadable dimensions ($dims)"
+            exit 1
+            ;;
+        esac
+
     - name: Commit and Push if changed
       run: |
         git config user.name "github-actions[bot]"
