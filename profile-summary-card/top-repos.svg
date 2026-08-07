@@ -81,10 +81,10 @@
 <path d="M12 8.5v2A3.5 3.5 0 0 0 15.5 14H16a4 4 0 0 1 4 4v-2.5"/></g>
 <text class="bold" x="558.00" y="279.00">0</text>
 <rect x="16.00" y="320.00" width="568.00" height="56.00" rx="8.00" fill="#414868" opacity="0.40"/>
-<rect x="24.00" y="328.00" width="3.5" height="40.00" rx="2" fill="#888888"/>
+<rect x="24.00" y="328.00" width="3.5" height="40.00" rx="2" fill="#89e051"/>
 <text class="bold" x="38.00" y="344.00">unity-cloud-build-action</text>
-<circle cx="42.00" cy="370.00" r="4.00" fill="#888888"/>
-<text class="muted" x="52.00" y="373.00">Unknown</text>
+<circle cx="42.00" cy="370.00" r="4.00" fill="#89e051"/>
+<text class="muted" x="52.00" y="373.00">Shell</text>
 <g transform="translate(470.00,334.00) scale(0.5833)" fill="#e0af68" stroke="none"><path d="M12 2l2.939 5.955 6.572.955-4.755 4.635 1.123 6.545L12 17l-5.878 3.09 1.123-6.545L2.49 8.91l6.572-.955z"/></g>
 <text class="bold" x="488.00" y="345.00">2</text>
 <g transform="translate(540.00,334.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="6" r="2.5"/>
