@@ -10,7 +10,11 @@
 
 ---
 
-![Language](https://skillicons.dev/icons?i=js,ts,css,c,cs,java,kotlin,mysql,py,ruby,swift,rust&perline=10)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,css,cs,kotlin,mysql,py,ruby,swift,rust,fortran,zig" />
+  </a>
+</p>
 
 ---
 
