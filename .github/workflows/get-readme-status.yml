@@ -28,7 +28,7 @@ jobs:
         # GitHub Profile Trophy
         # curl -H 'Cache-Control: no-cache' -o svg/trophy.svg "https://github-profile-trophy-kannan.vercel.app?username=Matuyuhi&count_private=true&no-frame=true&column=5&rank=-B"
     - name: Setup Deno
-      uses: denoland/setup-deno@v1
+      uses: denoland/setup-deno@v2
       with:
         deno-version: v1.x
 
