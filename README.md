@@ -16,14 +16,6 @@
   </a>
 </p>
 
----
-
-## Current Projects
-
-### [Ludiscan](https://github.com/ludiscan) - Game Analytics Platform
-ゲームプレイデータの収集・可視化・分析を行うプラットフォーム。プレイヤーの行動追跡、ヒートマップ生成、AI駆動のルートコーチング機能を提供。
-
-
 <img height=200 alt="Trophy" src="/svg/trophy.svg" />
 
 <!---
