@@ -25,7 +25,7 @@
 <circle cx="62" cy="100" r="38" fill="none" stroke="#414868" stroke-width="1" opacity="0.5"/>
 <text class="bold" x="120.00" y="80.00">yuhi yamane</text>
 <text class="muted" x="120.00" y="100.00">@Matuyuhi</text>
-<text class="text" x="120.00" y="122.00">android app engineer?</text>
+<text class="text" x="120.00" y="122.00">kon</text>
 <text class="muted" x="120.00" y="142.00">Joined 2021-10-07</text>
 <line x1="20.00" y1="158.00" x2="540.00" y2="158.00" stroke="#414868" stroke-width="1" opacity="0.6"/>
 <g transform="translate(20.00,172.00) scale(0.5833)" fill="none" stroke="#bb9af7" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
@@ -69,5 +69,5 @@
 <path d="M3 12h6"/>
 <path d="M15 12h6"/></g>
 <text class="text" x="302.00" y="262.00">Commits</text>
-<text class="num" x="526.00" y="262.00" text-anchor="end">4.7k</text>
+<text class="num" x="526.00" y="262.00" text-anchor="end">4.8k</text>
 </svg>
