@@ -21,39 +21,39 @@
 <rect x="20" y="14" width="3" height="22" rx="1.5" fill="#70a5fd"/>
 <text class="title" x="32" y="30">Repos per Language</text>
 <circle cx="130.00" cy="160.00" r="79.00" fill="#414868"/>
-<path d="M130.00,82.00 A78.00,78.00 0 0 1 204.18,184.10 L177.55,175.45 A50.00,50.00 0 0 0 130.00,110.00 Z" fill="#A97BFF"/>
-<path d="M204.18,184.10 A78.00,78.00 0 0 1 175.85,223.10 L159.39,200.45 A50.00,50.00 0 0 0 177.55,175.45 Z" fill="#7355dd"/>
-<path d="M175.85,223.10 A78.00,78.00 0 0 1 130.00,238.00 L130.00,210.00 A50.00,50.00 0 0 0 159.39,200.45 Z" fill="#F05138"/>
-<path d="M130.00,238.00 A78.00,78.00 0 0 1 96.16,230.28 L108.31,205.05 A50.00,50.00 0 0 0 130.00,210.00 Z" fill="#dea584"/>
-<path d="M96.16,230.28 A78.00,78.00 0 0 1 69.02,208.63 L90.91,191.17 A50.00,50.00 0 0 0 108.31,205.05 Z" fill="#3178c6"/>
-<path d="M69.02,208.63 A78.00,78.00 0 0 1 53.96,177.36 L81.25,171.13 A50.00,50.00 0 0 0 90.91,191.17 Z" fill="#ec915c"/>
-<path d="M53.96,177.36 A78.00,78.00 0 0 1 53.96,142.64 L81.25,148.87 A50.00,50.00 0 0 0 81.25,171.13 Z" fill="#f34b7d"/>
-<path d="M53.96,142.64 A78.00,78.00 0 0 1 130.00,82.00 L130.00,110.00 A50.00,50.00 0 0 0 81.25,148.87 Z" fill="#9aa1a8"/>
+<path d="M130.00,82.00 A78.00,78.00 0 0 1 204.80,182.13 L177.95,174.18 A50.00,50.00 0 0 0 130.00,110.00 Z" fill="#A97BFF"/>
+<path d="M204.80,182.13 A78.00,78.00 0 0 1 178.05,221.44 L160.80,199.39 A50.00,50.00 0 0 0 177.95,174.18 Z" fill="#7355dd"/>
+<path d="M178.05,221.44 A78.00,78.00 0 0 1 133.45,237.92 L132.21,209.95 A50.00,50.00 0 0 0 160.80,199.39 Z" fill="#F05138"/>
+<path d="M133.45,237.92 A78.00,78.00 0 0 1 93.52,228.94 L106.61,204.19 A50.00,50.00 0 0 0 132.21,209.95 Z" fill="#dea584"/>
+<path d="M93.52,228.94 A78.00,78.00 0 0 1 67.51,206.68 L89.94,189.92 A50.00,50.00 0 0 0 106.61,204.19 Z" fill="#3178c6"/>
+<path d="M67.51,206.68 A78.00,78.00 0 0 1 53.54,175.43 L80.99,169.89 A50.00,50.00 0 0 0 89.94,189.92 Z" fill="#ec915c"/>
+<path d="M53.54,175.43 A78.00,78.00 0 0 1 54.30,141.20 L81.47,147.95 A50.00,50.00 0 0 0 80.99,169.89 Z" fill="#f34b7d"/>
+<path d="M54.30,141.20 A78.00,78.00 0 0 1 130.00,82.00 L130.00,110.00 A50.00,50.00 0 0 0 81.47,147.95 Z" fill="#9aa1a8"/>
 <circle cx="130.00" cy="160.00" r="49.50" fill="#1a1b27"/>
 <text x="130.00" y="164.00" text-anchor="middle" class="huge" fill="#A97BFF">30%</text>
 <text class="muted" x="130.00" y="182.00" text-anchor="middle">Kotlin</text>
 <circle cx="246.00" cy="74.00" r="5.00" fill="#A97BFF"/>
 <text class="text" x="258.00" y="78.00">Kotlin</text>
-<text class="bold" x="516.00" y="78.00" text-anchor="end">30.0%</text>
+<text class="bold" x="516.00" y="78.00" text-anchor="end">29.6%</text>
 <circle cx="246.00" cy="98.00" r="5.00" fill="#7355dd"/>
 <text class="text" x="258.00" y="102.00">C#</text>
-<text class="bold" x="516.00" y="102.00" text-anchor="end">10.0%</text>
+<text class="bold" x="516.00" y="102.00" text-anchor="end">9.9%</text>
 <circle cx="246.00" cy="122.00" r="5.00" fill="#F05138"/>
 <text class="text" x="258.00" y="126.00">Swift</text>
-<text class="bold" x="516.00" y="126.00" text-anchor="end">10.0%</text>
+<text class="bold" x="516.00" y="126.00" text-anchor="end">9.9%</text>
 <circle cx="246.00" cy="146.00" r="5.00" fill="#dea584"/>
 <text class="text" x="258.00" y="150.00">Rust</text>
-<text class="bold" x="516.00" y="150.00" text-anchor="end">7.1%</text>
+<text class="bold" x="516.00" y="150.00" text-anchor="end">8.5%</text>
 <circle cx="246.00" cy="170.00" r="5.00" fill="#3178c6"/>
 <text class="text" x="258.00" y="174.00">TypeScript</text>
-<text class="bold" x="516.00" y="174.00" text-anchor="end">7.1%</text>
+<text class="bold" x="516.00" y="174.00" text-anchor="end">7.0%</text>
 <circle cx="246.00" cy="194.00" r="5.00" fill="#ec915c"/>
 <text class="text" x="258.00" y="198.00">Zig</text>
-<text class="bold" x="516.00" y="198.00" text-anchor="end">7.1%</text>
+<text class="bold" x="516.00" y="198.00" text-anchor="end">7.0%</text>
 <circle cx="246.00" cy="218.00" r="5.00" fill="#f34b7d"/>
 <text class="text" x="258.00" y="222.00">C++</text>
-<text class="bold" x="516.00" y="222.00" text-anchor="end">7.1%</text>
+<text class="bold" x="516.00" y="222.00" text-anchor="end">7.0%</text>
 <circle cx="246.00" cy="242.00" r="5.00" fill="#9aa1a8"/>
 <text class="text" x="258.00" y="246.00">Other</text>
-<text class="bold" x="516.00" y="246.00" text-anchor="end">21.4%</text>
+<text class="bold" x="516.00" y="246.00" text-anchor="end">21.1%</text>
 </svg>
