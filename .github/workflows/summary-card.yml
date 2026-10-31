@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v5.0.1
 
       - name: Generate cards
-        uses: matuyuhi/github-user-summary-cards@v1
+        uses: matuyuhi/github-user-summary-cards@v1.0.0
         with:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
