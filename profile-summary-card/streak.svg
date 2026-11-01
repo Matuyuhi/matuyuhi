@@ -39,6 +39,6 @@
 <rect x="360.00" y="64.00" width="156.00" height="130.00" rx="8.00" fill="#e0af68" opacity="0.10"/>
 <rect x="360.00" y="64.00" width="156.00" height="130.00" rx="8" fill="none" stroke="#e0af68" stroke-width="1" opacity="0.4"/>
 <g transform="translate(426.00,78.00) scale(1.0000)" fill="none" stroke="#e0af68" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></g>
-<text x="438.00" y="144.00" class="huge" fill="#e0af68" text-anchor="middle">344</text>
+<text x="438.00" y="144.00" class="huge" fill="#e0af68" text-anchor="middle">343</text>
 <text class="label" x="438.00" y="180.00" text-anchor="middle">Active Days</text>
 </svg>
